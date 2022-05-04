@@ -1,0 +1,26 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:boder-box;
+}
+form {
+width: 400px;
+background-color: #2424f0;
+padding: 30px;
+margin: auto;
+margin-top: 100px;
+border-radius: 4px;
+font-family: cursive;
+color: aliceblue;
+}
+
+h1{
+    width: 400px;
+    background-color: #04040c;
+
+}
+
+
+
+  
